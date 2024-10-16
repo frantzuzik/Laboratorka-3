@@ -213,7 +213,7 @@ Paint тоже распознаёт содержимое буфера обмен
 
 #Задание 14
 
-Файл задание 14.md
+![image](https://github.com/user-attachments/assets/377de8c8-3021-421d-8691-e6cb8c5f3333)
 
 #Задание 15
 
